@@ -1,0 +1,51 @@
+html {
+  background-color: papayawhip;
+  padding: 5%;
+}
+.des {
+  text-align: justify;
+}
+.des h3 {
+  text-align: center;
+}
+
+
+body {
+  padding: 2%;
+  background-color: burlywood;
+}
+.Heading {
+  text-align: center;
+  background-color: #dfbe9a;
+
+}
+
+.Heading h1{
+  color: #73683d;
+}
+
+.Heading h2 {
+  color: #735f10;
+}
+
+.Heading p {
+   color: #575034;
+}
+
+input {
+
+}
+
+form {
+  background-color: #ecca91;
+  padding: 5%;
+}
+
+form h2 {
+  color: #8a5919;
+  text-align: center
+}
+
+#description {
+  padding-left: 4%;
+}
