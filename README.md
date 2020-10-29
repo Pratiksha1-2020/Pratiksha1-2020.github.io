@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <link rel="stylesheet" href="CSS/form-css.css">
+    <link rel="stylesheet" href="form-css.css">
     <meta charset="utf-8">
     <title>forms</title>
   </head>
